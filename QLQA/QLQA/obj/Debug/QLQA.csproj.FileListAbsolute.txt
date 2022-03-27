@@ -1,0 +1,13 @@
+E:\HKII_21-22\PTUDW\QLQA\QLQA\QLQA\bin\Debug\QLQA.exe.config
+E:\HKII_21-22\PTUDW\QLQA\QLQA\QLQA\bin\Debug\QLQA.exe
+E:\HKII_21-22\PTUDW\QLQA\QLQA\QLQA\bin\Debug\QLQA.pdb
+E:\HKII_21-22\PTUDW\QLQA\QLQA\QLQA\obj\Debug\QLQA.csproj.AssemblyReference.cache
+E:\HKII_21-22\PTUDW\QLQA\QLQA\QLQA\obj\Debug\QLQA.fLogin.resources
+E:\HKII_21-22\PTUDW\QLQA\QLQA\QLQA\obj\Debug\QLQA.fTableManager.resources
+E:\HKII_21-22\PTUDW\QLQA\QLQA\QLQA\obj\Debug\QLQA.Properties.Resources.resources
+E:\HKII_21-22\PTUDW\QLQA\QLQA\QLQA\obj\Debug\QLQA.csproj.GenerateResource.cache
+E:\HKII_21-22\PTUDW\QLQA\QLQA\QLQA\obj\Debug\QLQA.csproj.CoreCompileInputs.cache
+E:\HKII_21-22\PTUDW\QLQA\QLQA\QLQA\obj\Debug\QLQA.exe
+E:\HKII_21-22\PTUDW\QLQA\QLQA\QLQA\obj\Debug\QLQA.pdb
+E:\HKII_21-22\PTUDW\QLQA\QLQA\QLQA\obj\Debug\QLQA.fAdmin.resources
+E:\HKII_21-22\PTUDW\QLQA\QLQA\QLQA\obj\Debug\QLQA.fInfor.resources
